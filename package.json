@@ -1,5 +1,5 @@
 {
-  "publisher": "antfu",
+  "publisher": "micaiguai",
   "name": "vscode-vue-3-snippets",
   "displayName": "ext-name",
   "version": "0.0.1",
@@ -12,13 +12,13 @@
   "homepage": "https://github.com/antfu/ext-name#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/ext-name"
+    "url": "https://github.com/micaiguai/vscode-vue-3-snippets"
   },
   "bugs": {
-    "url": "https://github.com/antfu/ext-name/issues"
+    "url": "https://github.com/micaiguai/vscode-vue-3-snippets/issues"
   },
   "sponsor": {
-    "url": "https://github.com/sponsors/antfu"
+    "url": "https://github.com/sponsors/micaiguai"
   },
   "categories": [
     "Other"
@@ -40,7 +40,7 @@
     "commands": [],
     "configuration": {
       "type": "object",
-      "title": "ext-name",
+      "title": "vscode-vue-3-snippets",
       "properties": {}
     }
   },
