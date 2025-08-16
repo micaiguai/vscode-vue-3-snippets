@@ -1,6 +1,12 @@
 # vscode-vue-3-snippets
 vue3 snippets for vscode
 
+<p align="center">
+  <a href="./res/icon.png">
+    <img src='./res/icon.png'/>
+  </a>
+</p>
+
 ## snippets
 | name | body |
 | --- | --- |
