@@ -1,0 +1,11 @@
+{
+  "vue for": {
+    "prefix": "vue for",
+    "body": [
+      "<div v-for=\"${2:item} in ${1:items}\" :key=\"${3:item.key}\">",
+      "  $4",
+      "</div>"
+    ],
+    "description": "vue for"
+  }
+}
