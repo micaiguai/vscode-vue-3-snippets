@@ -11,6 +11,7 @@ vue3 snippets for vscode
 | name | body |
 | --- | --- |
 | vue component | \<scripts setup lang="ts" \><br>\<scripts\><br><br>\<template\><br>\</template\> |
+| vue for | \<div v-for="item in items" :key="item.key"\>\<\/div\> |
 | vue ref | const foo = ref() |
 | vue computed | const foo = computed(() ⇒ {}) |
 | vue props | const props = defineProps([]) |
