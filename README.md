@@ -10,11 +10,7 @@ vue3 snippets for vscode
 ## snippets
 | name | body |
 | --- | --- |
-| vue component | <scripts setup lang=”ts” >
-<scripts>
-
-<template>
-</template> |
+| vue component | \<scripts setup lang="ts" \><br>\<scripts\><br><br>\<template\><br>\</template\> |
 | vue ref | const foo = ref() |
 | vue computed | const foo = computed(() ⇒ {}) |
 | vue props | const props = defineProps([]) |
