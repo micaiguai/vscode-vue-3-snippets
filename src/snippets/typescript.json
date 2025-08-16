@@ -49,13 +49,13 @@
     ],
     "description": "vue props"
   },
-  "vue emit": {
-    "prefix": "vue emit",
+  "vue emits": {
+    "prefix": "vue emits",
     "body": [
       "const emit = defineEmits<{",
       "  ${1: update}: [${2:name}: ${3:string}]",
       "}>()"
     ],
-    "description": "vue emit"
+    "description": "vue emits"
   }
 }
