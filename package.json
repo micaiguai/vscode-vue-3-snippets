@@ -1,7 +1,7 @@
 {
   "publisher": "micaiguai",
   "name": "vscode-vue-3-snippets",
-  "displayName": "ext-name",
+  "displayName": "vscode-vue-3-snippets",
   "version": "0.0.1",
   "private": true,
   "packageManager": "pnpm@10.4.1",
