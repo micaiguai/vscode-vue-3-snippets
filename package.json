@@ -42,7 +42,25 @@
       "type": "object",
       "title": "vscode-vue-3-snippets",
       "properties": {}
-    }
+    },
+    "snippets": [
+      {
+        "language": "typescript",
+        "path": "./src/snippets/typescript.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./src/snippets/javascript.json"
+      },
+      {
+        "language": "html",
+        "path": "./src/snippets/html.json"
+      },
+      {
+        "language": "vue",
+        "path": "./src/snippets/vue.json"
+      }
+    ]
   },
   "scripts": {
     "build": "tsdown src/index.ts --external vscode",

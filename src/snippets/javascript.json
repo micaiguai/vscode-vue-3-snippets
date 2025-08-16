@@ -1,0 +1,61 @@
+{
+  "vue ref": {
+    "prefix": "vue ref",
+    "body": [
+      "const $1 = ref($2)"
+    ],
+    "description": "vue ref"
+  },
+  "vue computed": {
+    "prefix": "vue computed",
+    "body": [
+      "const $1 = computed(() => {",
+      "  return $2",
+      "})"
+    ],
+    "description": "vue computed"
+  },
+  "vue watch": {
+    "prefix": "vue watch",
+    "body": [
+      "watch($1, () => {",
+      "  $2",
+      "})"
+    ],
+    "description": "vue watch"
+  },
+  "vue watch effect": {
+    "prefix": "vue watch effect",
+    "body": [
+      "useEffect(() => {",
+      "  $1",
+      "})"
+    ],
+    "description": "vue watch effect"
+  },
+  "vue template ref": {
+    "prefix": "vue template ref",
+    "body": [
+      "const $2 = useTemplateRef('$1')"
+    ],
+    "description": "vue template ref"
+  },
+  "vue props": {
+    "prefix": "vue props",
+    "body": [
+      "const props = defineProps([",
+      "  '$1'",
+      "])"
+    ],
+    "description": "vue props"
+  },
+  "vue emits": {
+    "prefix": "vue emits",
+    "body": [
+      "const emit = defineEmits([",
+      "  '$1'",
+      "])"
+    ],
+    "description": "vue emits"
+  }
+}

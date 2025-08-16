@@ -1,0 +1,16 @@
+{
+  "vue component": {
+    "prefix": "vue component",
+    "body": [
+      "<script setup lang=\"ts\">",
+      "$2",
+      "</script>",
+      "",
+      "<template>",
+      "  $1",
+      "</template>",
+      ""
+    ],
+    "description": "vue component"
+  }
+}
