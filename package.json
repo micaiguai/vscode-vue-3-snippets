@@ -2,7 +2,7 @@
   "publisher": "micaiguai",
   "name": "vscode-vue-3-snippets",
   "displayName": "Vue 3 Snippets In Vscode",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "private": true,
   "packageManager": "pnpm@10.14.0",
   "description": "vscode-vue-3-snippets description",
@@ -69,7 +69,7 @@
     ]
   },
   "scripts": {
-    "build": "tsdown src/index.ts --external vscode",
+    "build": "tsdown",
     "dev": "nr build --watch --sourcemap",
     "prepare": "nr update",
     "update": "vscode-ext-gen --output src/generated/meta.ts",
