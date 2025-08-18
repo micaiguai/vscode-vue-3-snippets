@@ -1,6 +1,6 @@
 {
   "publisher": "micaiguai",
-  "name": "vscode-vue-3-snippets",
+  "name": "Vscode vue 3 snippets",
   "displayName": "Vscode vue 3 snippets",
   "version": "0.0.6",
   "private": true,
@@ -17,12 +17,18 @@
   "bugs": {
     "url": "https://github.com/micaiguai/vscode-vue-3-snippets/issues"
   },
+  "keywords": [
+    "javascript",
+    "snippet",
+    "vue"
+  ],
+  "categories": [
+    "Programming Languages",
+    "Snippets"
+  ],
   "sponsor": {
     "url": "https://github.com/sponsors/micaiguai"
   },
-  "categories": [
-    "Other"
-  ],
   "main": "./dist/index.js",
   "icon": "res/icon.png",
   "files": [
