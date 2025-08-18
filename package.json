@@ -44,18 +44,6 @@
   ],
   "contributes": {
     "commands": [],
-    "languages": [
-      {
-        "id": "vue",
-        "aliases": [
-          "Vue",
-          "vue"
-        ],
-        "extensions": [
-          ".vue"
-        ]
-      }
-    ],
     "configuration": {
       "type": "object",
       "title": "vscode-vue-3-snippets",
