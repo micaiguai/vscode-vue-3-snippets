@@ -4,7 +4,7 @@
   "displayName": "Vue 3 Snippets In Vscode",
   "version": "0.0.10",
   "private": true,
-  "packageManager": "pnpm@10.4.1",
+  "packageManager": "pnpm@10.14.0",
   "description": "vscode-vue-3-snippets description",
   "author": "micaiguai",
   "license": "MIT",
@@ -37,7 +37,7 @@
     "res/*"
   ],
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.103.0"
   },
   "activationEvents": [
     "onStartupFinished"
@@ -64,19 +64,19 @@
     "snippets": [
       {
         "language": "typescript",
-        "path": "./src/snippets/typescript.json"
+        "path": "./snippets/typescript.json"
       },
       {
         "language": "javascript",
-        "path": "./src/snippets/javascript.json"
+        "path": "./snippets/javascript.json"
       },
       {
         "language": "html",
-        "path": "./src/snippets/html.json"
+        "path": "./snippets/html.json"
       },
       {
         "language": "vue",
-        "path": "./src/snippets/vue.json"
+        "path": "./snippets/vue.json"
       }
     ]
   },
@@ -94,21 +94,21 @@
     "release": "bumpp && nr publish"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^4.2.1",
-    "@antfu/ni": "^23.3.1",
-    "@types/node": "^22.13.4",
-    "@types/vscode": "^1.97.0",
-    "@vscode/vsce": "^3.2.2",
-    "bumpp": "^10.0.3",
-    "eslint": "^9.20.1",
+    "@antfu/eslint-config": "^5.2.1",
+    "@antfu/ni": "^25.0.0",
+    "@types/node": "^22.17.2",
+    "@types/vscode": "^1.103.0",
+    "@vscode/vsce": "^3.6.0",
+    "bumpp": "^10.2.3",
+    "eslint": "^9.33.0",
     "esno": "^4.8.0",
-    "pnpm": "^10.4.1",
-    "reactive-vscode": "^0.2.10",
-    "tsdown": "^0.9.6",
-    "typescript": "^5.7.3",
-    "vite": "^6.1.0",
-    "vitest": "^3.0.5",
-    "vscode-ext-gen": "^1.0.0"
+    "pnpm": "^10.14.0",
+    "reactive-vscode": "^0.3.1",
+    "tsdown": "^0.14.1",
+    "typescript": "^5.9.2",
+    "vite": "^7.1.2",
+    "vitest": "^3.2.4",
+    "vscode-ext-gen": "^1.1.0"
   },
   "pnpm": {
     "onlyBuiltDependencies": [
