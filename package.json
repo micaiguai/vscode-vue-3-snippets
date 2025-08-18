@@ -2,7 +2,7 @@
   "publisher": "micaiguai",
   "name": "Vscode vue 3 snippets",
   "displayName": "Vscode vue 3 snippets",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "private": true,
   "packageManager": "pnpm@10.4.1",
   "description": "vscode-vue-3-snippets description",
