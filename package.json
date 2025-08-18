@@ -2,7 +2,7 @@
   "publisher": "micaiguai",
   "name": "vscode-vue-3-snippets",
   "displayName": "Vue 3 Snippets In Vscode",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "private": true,
   "packageManager": "pnpm@10.14.0",
   "description": "vscode-vue-3-snippets description",
