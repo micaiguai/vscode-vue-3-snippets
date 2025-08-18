@@ -34,7 +34,8 @@
   "files": [
     "LICENSE.md",
     "dist/*",
-    "res/*"
+    "res/*",
+    "snippets/*"
   ],
   "engines": {
     "vscode": "^1.103.0"
