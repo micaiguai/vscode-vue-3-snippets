@@ -30,11 +30,11 @@
     "url": "https://github.com/sponsors/micaiguai"
   },
   "main": "./dist/index.js",
-  "icon": "res/icon.png",
+  "icon": "assets/icon.png",
   "files": [
     "LICENSE.md",
+    "assets/*",
     "dist/*",
-    "res/*",
     "snippets/*"
   ],
   "engines": {
